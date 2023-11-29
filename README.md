@@ -121,8 +121,6 @@ The report should contain the following:
 - Using the features in the provided dataset, I created a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup.
 - The CSV I recieved from Alphabet Soup contains more than 34,000 organizations that have received funding from them over the years.
 - Within this dataset, there are 11 columns and 34299 rows that capture metadata about each organization
-- Here's what the dataset looks like:
-<img src="./Images/application_df.png" alt="df" width="300"/>
 - For the Neural Network Model, I utilized `Sequential` from `Keras` and my goal was to achieve the highest accuracy possible, which was achieved using a tuner.
 
 ## Results  
